@@ -1,10 +1,13 @@
+import { Footer, Header, Main } from "./layout"
 
 
 function App() {
 
   return (
     <>
-      <h1></h1>
+      <Header />
+      <Main />
+      <Footer />
     </>
   )
 }
